@@ -5,5 +5,7 @@
 ### MNIST Dataset Neural Network from scratch using NumPy
 
 Train Accuracy: 94.97%
-cross validation accuracy: 92.80%
+
+Cross validation accuracy: 92.80%
+
 Test Accuracy(on kaggle): 93.035%
