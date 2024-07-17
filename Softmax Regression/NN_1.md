@@ -1,0 +1,1 @@
+This project is forming a neural network which can recognize hand-written digits. The training accuracy achieved is close to 95% ,on the testing set also, it's accuracy is nearly the same. 
