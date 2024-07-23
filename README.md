@@ -1,3 +1,2 @@
-# Introduction to Deep Learning
-
-## Season of Code 2024
+#Seasons of Code 2024 Project
+## Consists of the Code and Project Report! ##
