@@ -1,3 +1,3 @@
-# Introduction to Deep Learning
+# Seasons of Code 2024 Project
 
-## Season of Code 2024
+## Convolutional Neural Network for bird (image) classification
