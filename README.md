@@ -1,3 +1,5 @@
-# Introduction to Deep Learning
+# CUB_200_2011 Model 
 
-## Season of Code 2024
+## Final Project
+### Fine-grained classification
+Please download the report.docx file from above. It contains the dataset and information about the model.
